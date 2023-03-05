@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T08:47:04.144Z" agent="5.0 (X11)" etag="EUU50lMquV32BEOMT_5P" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T08:48:41.263Z" agent="5.0 (X11)" etag="QFXBmlBVdZYXCQumc7j0" version="21.0.2" type="github">
   <diagram name="Page-1" id="M6wSjgtkwalULBn_OeCC">
     <mxGraphModel dx="1728" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,14 +15,6 @@
         </mxCell>
         <mxCell id="wht58hyC4nLkEoGdwxGO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wht58hyC4nLkEoGdwxGO-1" target="wht58hyC4nLkEoGdwxGO-17">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wht58hyC4nLkEoGdwxGO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" source="wht58hyC4nLkEoGdwxGO-1" target="wht58hyC4nLkEoGdwxGO-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="450" />
-              <mxPoint x="300" y="688" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="wht58hyC4nLkEoGdwxGO-1" value="Client-Side (Chat)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="390" width="150" height="60" as="geometry" />
